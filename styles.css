@@ -25,23 +25,23 @@ footer {
 }
 
 .s {
-  background-image: url("/tom3.png");
+  background-image: url("tom3.png");
 }
 
 .d {
-  background-image: url("/tom4.png");
+  background-image: url("tom4.png");
 }
 
 .j {
-  background-image: url("/snare.png");
+  background-image: url("snare.png");
 }
 
 .k {
-  background-image: url("/crash.png");
+  background-image: url("crash.png");
 }
 
 .l {
-  background-image: url("/kick.png");
+  background-image: url("kick.png");
 }
 
 .set {
